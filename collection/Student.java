@@ -6,8 +6,8 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * @author MdShahnawaj
  * Class is used to implements comparable
+ * @author MdShahnawaj
 */
 
 class Student implements Comparable<Student> {
@@ -75,7 +75,7 @@ class ComparableAndComparator {
 			System.out.println(student.getName() + " - " + student.getAge());
 		}
 
-		//This method is short age in ascending order using comparable
+		/** This method is short age in ascending order using comparable */
 		Collections.sort(studentList);
 
 		System.out.println("\nAfter sorting by age using Comparable:");
@@ -83,7 +83,7 @@ class ComparableAndComparator {
 			System.out.println(student.getName() + " - " + student.getAge());
 		}
 
-		// This method is short name in ascending order using comparator
+		/** This method is short name in ascending order using comparator */
 		Collections.sort(studentList, new NameComparator());
 
 		System.out.println("\nAfter sorting by name using Comparator:");

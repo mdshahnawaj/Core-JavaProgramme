@@ -1,15 +1,16 @@
 package collection;
 
 import java.util.HashSet;
+
 /**
- * @author MdShahnawaj
  * Class is used to implementation of Set
+ * @author MdShahnawaj
 */
 public class CollectionSet {
 
 	public static void main(String[] args) {
 
-		//This is HashSet class
+		/** This is HashSet class */
 		HashSet<Integer> element = new HashSet<Integer>();
 		element.add(10);
 		element.add(20);
@@ -19,10 +20,10 @@ public class CollectionSet {
 		element.add(50);
 		element.add(60);
 
-		//Print all element
+		/** Print all element */
 		System.out.println("List of element: " + element);
 
-		//Method of HashSet
+		/** Method of HashSet */
 		element.remove(20);
 		System.out.println("After remove element 20 : " + element);
 		System.out.println("Check element: " + element.contains(30));
