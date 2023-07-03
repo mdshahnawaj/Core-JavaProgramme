@@ -1,7 +1,8 @@
 package hybrid_inheritance;
+
 /**
- * @author MdShahnawaj
  * Class is used for hybrid inheritance
+ * @author MdShahnawaj
 */
 public class BranchOne {
 

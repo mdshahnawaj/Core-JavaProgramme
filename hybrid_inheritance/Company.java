@@ -1,7 +1,8 @@
 package hybrid_inheritance;
+
 /**
- * @author MdShahnawaj
  * Class is used for inherit properties of BranchTwo
+ * @author MdShahnawaj
 */
 public class Company extends BranchTwo {
 
