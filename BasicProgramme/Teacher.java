@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * Class is used to achieve encapsulation
+ * @author MdShahnawaj
 */
 public class Teacher {
 

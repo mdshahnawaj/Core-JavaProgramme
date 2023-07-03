@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * This is parent class for super keyword.
+ * @author MdShahnawaj
 */
 public class Parent {
 

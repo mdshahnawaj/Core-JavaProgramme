@@ -1,7 +1,8 @@
 package BasicProgramme;
+
 /**
- * @author MdShahnawaj
  * Class is used to compare two string == or equals method
+ * @author MdShahnawaj
 */
 public class Compare {
 
@@ -10,7 +11,7 @@ public class Compare {
 		String nameTwo = "chankit";
 		String nameThree = new String("chankit");
 
-		//Compare string using == or equals()
+		/** Compare string using == or equals() */
 		System.out.println("Compare string using == operator:" + (nameOne == nameTwo));
 		System.out.println("Compare string using == operator:" + (nameOne == nameThree));
 		System.out.println("Compare string using equal method:" + nameOne.equals(nameTwo));

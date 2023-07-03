@@ -1,14 +1,14 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * This class is used for creating static block, method & variable.
+ * @author MdShahnawaj
 */
 public class StaticExample {
 
 	static int number = 10;
 
-	//This is static block
+	/** This is static block */
 	static {
 		System.out.println("This is static block");
 	}

@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * Class is used for search index position in array
+ * @author MdShahnawaj
 */
 public class IndexSearchElement {
 
@@ -10,14 +10,14 @@ public class IndexSearchElement {
 		int[] array = { 5, 6, 7, 8, 9 };
 		int index = -1;
 
-		//Loop is used for searching index position
+		/** Loop is used for searching index position */
 		for (int i = 0; i < array.length; i++) {
 			if (array[i] == 4) {
 				index = i;
 			}
 		}
 
-		//Check condition for index position is found or not
+		/** Check condition for index position is found or not */
 		if (index != -1) {
 			System.out.println("Index position is :" + index);
 		} else {

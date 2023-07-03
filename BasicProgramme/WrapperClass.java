@@ -2,14 +2,13 @@ package BasicProgramme;
 
 import java.util.Scanner;
 
-/**
- * @author MdShahnawaj 
+/** 
  * This class is used for wrapper class implementation
+ * @author MdShahnawaj
 */
 public class WrapperClass {
 
 	public static void main(String[] args) {
-		//Scanner class used to take input from user
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Enter the first number");
@@ -18,7 +17,7 @@ public class WrapperClass {
 		System.out.println("Enter the second number");
 		Integer numTwo = input.nextInt();
 
-		//Condition is check for number comparison
+		/** Condition is check for number comparison */
 		if (numOne == numTwo) {
 			System.out.println("Number is equal");
 		} else if (numOne > numTwo) {

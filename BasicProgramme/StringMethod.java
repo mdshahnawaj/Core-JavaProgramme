@@ -1,8 +1,8 @@
 package BasicProgramme;
 
-/**
- * @author MdShahnawaj 
+/** 
  * Class is used for implementation of string method
+ * @author MdShahnawaj
 */
 public class StringMethod {
 
@@ -10,7 +10,7 @@ public class StringMethod {
 		String nameOne = "stringone";
 		String nameTwo = "stringtwo";
 
-		// String method to perform string operation
+		/** String method to perform string operation */
 		System.out.println("Find index position in string : " + nameOne.charAt(3));
 		System.out.println("Concat two string : " + nameOne.concat(nameTwo));
 		System.out.println("Compare two string : " + nameOne.equals(nameTwo));

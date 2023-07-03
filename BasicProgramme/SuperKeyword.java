@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * This class is used for implement parent class.
+ * @author MdShahnawaj
 */
 public class SuperKeyword extends Parent {
 

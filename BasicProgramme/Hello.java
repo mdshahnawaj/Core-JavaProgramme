@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * This class is used for creating Hello Word program
+ * @author MdShahnawaj
 */
 public class Hello {
 

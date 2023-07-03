@@ -1,16 +1,17 @@
 package BasicProgramme;
 
-/**
- * @author MdShahnawaj 
+/** 
  * Class is used for implementation of abstraction
+ * @author MdShahnawaj
 */
 public class Company extends Employee {
 
 	/**
 	 * This is override abstract method
+	 * @param salary
 	*/
-	public void employeeSalary(int a) {
-		System.out.println("Employee salary is :" + a);
+	public void employeeSalary(int salary) {
+		System.out.println("Employee salary is :" + salary);
 	}
 
 	public static void main(String[] args) {

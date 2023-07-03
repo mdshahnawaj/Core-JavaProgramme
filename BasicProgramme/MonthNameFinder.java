@@ -3,19 +3,18 @@ package BasicProgramme;
 import java.util.Scanner;
 
 /**
- * @author MdShahnawaj
  * This class is used for switch case for finding month name
+ * @author MdShahnawaj
 */
 public class MonthNameFinder {
 
 	public static void main(String[] args) {
-		//Scanner class used to take input from user
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Enter the number of month");
 		int number = input.nextInt();
 
-		//This is switch case to switch condition according to user input
+		/** This is switch case to switch condition according to user input */
 		switch (number) {
 		case 1: {
 			System.out.println("Current month name is : January");

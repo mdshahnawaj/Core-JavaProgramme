@@ -2,14 +2,13 @@ package BasicProgramme;
 
 import java.util.Scanner;
 
-/**
- * @author MdShahnawaj 
+/** 
  * Class is used for EMI calculator
+ * @author MdShahnawaj
 */
 public class EmiCalculator {
 
 	public static void main(String[] args) {
-		//Scanner class used to take input from user
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Enter the principal amount: ");
@@ -23,10 +22,9 @@ public class EmiCalculator {
 		System.out.println("Enter the loan tenure (in years): ");
 		int years = input.nextInt();
 
-		//Convert year to month
 		int months = years * 12;
 
-		//Method is used for call calculateEMI method
+		/** Method is used for call calculateEMI method */
 		double emi = calculateEMI(principal, monthlyRate, months);
 		System.out.println("The Equated Monthly Installment (EMI) is: " + emi);
 		input.close();

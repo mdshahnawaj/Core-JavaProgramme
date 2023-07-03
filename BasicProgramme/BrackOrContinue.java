@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj 
  * This class is used for break & continue statement
+ * @author MdShahnawaj
 */
 public class BrackOrContinue {
 
@@ -12,7 +12,7 @@ public class BrackOrContinue {
 		int i;
 		System.out.println("List Of Number : ");
 
-		//This loop is used for print number and implement break and continue
+		/** This loop is used for print number and implement break and continue */
 		for (i = 1; i <= NUMBER; i++) {
 			if (i == CHECK) {
 				break;

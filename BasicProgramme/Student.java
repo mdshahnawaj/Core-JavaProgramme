@@ -1,8 +1,8 @@
 package BasicProgramme;
 
 /**
- * @author MdShahnawaj
  * Class is used for getter & setter and achieve encapsulation
+ * @author MdShahnawaj
 */
 public class Student {
 
@@ -10,7 +10,7 @@ public class Student {
 	private String studentName;
 
 	/**
-	 * Method is used to get value
+	 * Method is used to get StudentRollNo
 	 * @return studentRollNo
 	*/
 	public int getStudentRollNo() {
@@ -18,7 +18,7 @@ public class Student {
 	}
 
 	/**
-	 * Method is used to set value
+	 * Method is used to set StudentRollNo
 	 * @param studentRollNo
 	*/
 	public void setStudentRollNo(int studentRollNo) {
@@ -26,7 +26,7 @@ public class Student {
 	}
 
 	/**
-	 * Method is used to get value
+	 * Method is used to get StudentName
 	 * @return studentName
 	*/
 	public String getStudentName() {
@@ -34,7 +34,7 @@ public class Student {
 	}
 
 	/**
-	 * Method is used to set value
+	 * Method is used to set StudentName
 	 * @param studentName
 	*/
 	public void setStudentName(String studentName) {
