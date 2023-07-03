@@ -4,8 +4,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 /**
- * @author MdShahnawaj 
  * Class is used for throws keyword
+ * @author MdShahnawaj
 */
 public class ReadFile {
 

@@ -1,8 +1,8 @@
 package throws_exception;
 
-/**
- * @author MdShahnawaj 
+/** 
  * Class is used for throws keyword
+ * @author MdShahnawaj
 */
 public class Division {
 

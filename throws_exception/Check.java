@@ -2,9 +2,9 @@ package throws_exception;
 
 import java.io.FileNotFoundException;
 
-/**
- * @author MdShahnawaj 
+/** 
  * Class is used for handle exception
+ * @author MdShahnawaj
 */
 public class Check {
 
