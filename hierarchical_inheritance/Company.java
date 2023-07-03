@@ -1,7 +1,8 @@
 package hierarchical_inheritance;
+
 /**
- * @author MdShahnawaj
  * Class is used for hierarchical inheritance
+ * @author MdShahnawaj
 */
 public class Company {
 

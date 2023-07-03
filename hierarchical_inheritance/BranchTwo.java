@@ -1,8 +1,8 @@
 package hierarchical_inheritance;
 
 /**
- * @author MdShahnawaj
  * Class is used for inherit properties of Company
+ * @author MdShahnawaj
 */
 public class BranchTwo extends Company {
 
