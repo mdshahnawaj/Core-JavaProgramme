@@ -1,13 +1,13 @@
 package polymorphism;
 
 /**
- * @author MdShahnawaj
  * Class is used for overloading
+ * @author MdShahnawaj
 */
 public class Overloading {
 
 	/**
-	 * Method is used to prit value of number
+	 * Method is used to prit number
 	 * @param number
 	*/
 	public void show(int number) {
@@ -15,7 +15,7 @@ public class Overloading {
 	}
 
 	/**
-	 * Method is used to prit value of numberOne and numberTwo
+	 * Method is used to prit numberOne and numberTwo
 	 * @param numberOne
 	 * @param numberTwo
 	*/
@@ -24,10 +24,10 @@ public class Overloading {
 	}
 
 	/**
-	 * Method is used to prit value of numberOne and name
+	 * Method is used to prit numberOne and name
 	 * @param numberOne
 	 * @param name
-	 */
+	*/
 	public void show(int numberOne, String name) {
 		System.out.println("Value of a & name : " + numberOne + "," + name);
 	}

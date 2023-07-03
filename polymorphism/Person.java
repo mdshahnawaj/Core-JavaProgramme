@@ -1,8 +1,8 @@
 package polymorphism;
 
 /**
- * @author MdShahnawaj
  * Class is used for overriding
+ * @author MdShahnawaj
 */
 class Person {
 
