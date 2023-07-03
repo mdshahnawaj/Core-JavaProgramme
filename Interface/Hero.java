@@ -1,8 +1,8 @@
 package Interface;
 
 /**
- * @author MdShahnawaj
  * Create interface for implementation multiple inheritance
+ * @author MdShahnawaj
 */
 interface Hero {
 	/**

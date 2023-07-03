@@ -1,8 +1,8 @@
 package Interface;
 
 /**
- * @author MdShahnawaj
  * Create interface class for achieve abstraction
+ * @author MdShahnawaj
 */
 interface Language {
 
@@ -17,6 +17,7 @@ class ProgrammingLanguage implements Language {
 
 	/**
 	 * This is body of abstract method
+	 * @param name
 	*/
 	public void getName(String name) {
 		System.out.println("Programming Language: " + name);
