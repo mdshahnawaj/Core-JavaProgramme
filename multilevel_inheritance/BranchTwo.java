@@ -1,8 +1,8 @@
 package multilevel_inheritance;
 
 /**
- * @author MdShahnawaj
  * Class is used for inherit properties of BranchOne
+ * @author MdShahnawaj
 */
 public class BranchTwo extends BranchOne {
 

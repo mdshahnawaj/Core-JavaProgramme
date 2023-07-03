@@ -1,8 +1,8 @@
 package multilevel_inheritance;
 
 /**
- * @author MdShahnawaj
  * Class is used for multilevel inheritance
+ * @author MdShahnawaj
 */
 public class BranchOne {
 
