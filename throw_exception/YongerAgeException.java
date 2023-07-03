@@ -1,8 +1,8 @@
 package throw_exception;
  
 /**
- * @author MdShahnawaj
  * Class is used to print exception message
+ * @author MdShahnawaj
 */
 public class YongerAgeException extends RuntimeException {
 
