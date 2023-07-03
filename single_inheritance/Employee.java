@@ -1,8 +1,8 @@
 package single_inheritance;
 
 /**
- * @author MdShahnawaj
  * Class is used for inherit properties of company class
+ * @author MdShahnawaj
 */
 public class Employee extends Company {
 

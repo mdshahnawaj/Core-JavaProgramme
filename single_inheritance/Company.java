@@ -1,8 +1,8 @@
 package single_inheritance;
 
 /**
- * @author MdShahnawaj
  * Class is used for single inheritance
+ * @author MdShahnawaj
 */
 public class Company {
 
