@@ -21,8 +21,8 @@ public class Company extends BranchTwo {
 		company.display();
 		company.print();
 		company.show();
-		BranchThree object = new BranchThree();
-		object.view();
+		BranchThree branchThree = new BranchThree();
+		branchThree.view();
 	}
 
 }
