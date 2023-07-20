@@ -16,51 +16,63 @@ public class MonthNameFinder {
 
 		/** This is switch case to switch condition according to user input */
 		switch (number) {
-		case 1: {
+		case 1:
+		{
 			System.out.println("Current month name is : January");
 			break;
 		}
-		case 2: {
+		case 2:
+		{
 			System.out.println("Current month name is : February");
 			break;
 		}
-		case 3: {
+		case 3:
+		{
 			System.out.println("Current month name is : March");
 			break;
 		}
-		case 4: {
+		case 4:
+		{
 			System.out.println("Current month name is : April");
 			break;
 		}
-		case 5: {
+		case 5:
+		{
 			System.out.println("Current month name is : May");
 			break;
 		}
-		case 6: {
+		case 6:
+		{
 			System.out.println("Current month name is : June");
 			break;
 		}
-		case 7: {
+		case 7:
+		{
 			System.out.println("Current month name is : July");
 			break;
 		}
-		case 8: {
+		case 8:
+		{
 			System.out.println("Current month name is : August");
 			break;
 		}
-		case 9: {
+		case 9:
+		{
 			System.out.println("Current month name is : September");
 			break;
 		}
-		case 10: {
+		case 10:
+		{
 			System.out.println("Current month name is : October");
 			break;
 		}
-		case 11: {
+		case 11:
+		{
 			System.out.println("Current month name is : November");
 			break;
 		}
-		case 12: {
+		case 12:
+		{
 			System.out.println("Current month name is : December");
 			break;
 		}
