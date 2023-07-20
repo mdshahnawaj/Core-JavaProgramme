@@ -4,7 +4,7 @@ package BasicProgramme;
  * This class is used for break & continue statement
  * @author MdShahnawaj
 */
-public class BrackOrContinue {
+public class BreakOrContinue {
 
 	public static void main(String[] args) {
 		final int NUMBER = 10;
